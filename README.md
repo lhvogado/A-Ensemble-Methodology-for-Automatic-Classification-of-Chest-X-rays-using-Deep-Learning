@@ -10,7 +10,7 @@ Proposed methodology steps avaliable:
 2. Token segmentation - ✔️
 3. CNNs Training and Evaluation - 🔜
 4. Ensemble of CNNs - 🔜
-5. Results analisys - 🔜
+5. Results analysis - 🔜
 
 Link for token segmentation U-Net Classifier: https://drive.google.com/file/d/1nHwP11_iHYdJoumEQXWDXLPpQ23TBivw/view?usp=sharing
 
